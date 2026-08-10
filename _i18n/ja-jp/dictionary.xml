@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="doc">セルフサポートオプションを利用する</block>
+  <block id="e1b60c2ad9c154960f01bfe202788f74" category="paragraph">NetAppは、NetApp Console のローカル展開に対して、さまざまな方法でサポートを提供しています。ナレッジベース（KB）の記事やコミュニティフォーラムなど、充実した無料のセルフサポートオプションが24時間365日利用可能です。サポート登録には、ウェブチケットによるリモート技術サポートが含まれています。</block>
+  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">これらのオプションは、24時間年中無休で無料でご利用いただけます。</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">ドキュメント</block>
+  <block id="5bb94d173380c00577f5e04b6f26bb94" category="paragraph">現在ご覧になっているNetApp Consoleのドキュメント。</block>
+  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">ナレッジベース</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="0e20091afcea2d83d0033a933ba85092" category="paragraph">NetApp ナレッジベースを検索して、問題のトラブルシューティングに役立つ記事を見つけます。</block>
+  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">コミュニティ</block>
+  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
+  <block id="777d75a90b107e4f18469f82c4f81fe2" category="paragraph">NetApp Console コミュニティに参加して、進行中のディスカッションをフォローしたり、新しいディスカッションを作成したりできます。</block>
+  <block id="0b0e252af8897fbe981ec6682d2aa33b" category="doc">サポート登録の概要</block>
+  <block id="c3bd989c2b5ac8d3c39d676c243f24c8" category="paragraph">NetApp Console のローカル展開およびそのストレージソリューションとデータサービスに固有の技術サポートを受けるには、サポート登録が必要です。</block>
+  <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">サポートの利用資格を有効化するための登録方法は2種類あります。</block>
+  <block id="869a868c87f6fb61410cfd773b4f1bab" category="list-text">NetApp Console アカウントのシリアル番号（Console のサポートリソースページに記載されている 20 桁の 960xxxxxxxxx シリアル番号）を登録します。</block>
+  <block id="be0b51de4268d87101344aa0368b4403" category="paragraph">これは、コンソール内のあらゆるサービスにおける、お客様専用のサポートサブスクリプションIDとして機能します。各コンソールアカウントは登録が必要です。</block>
+  <block id="ef5915c0fd287d47e033f66df5168a2d" category="sidebar">NetApp Console のローカル展開により、チームは単一の安全なコントロールプレーンからオンプレミス環境でインテリジェントなフリート管理を行うことができます。機能別にドキュメントを閲覧するか、検索機能を使用してコンテンツを探してください。</block>
+  <block id="fe908ff50fedb21b0879418bfa836719" category="sidebar">NetApp Console のローカル展開により、チームは1つの安全なコントロールプレーンからオンプレミス環境でインテリジェントなフリート管理を行うことができます。</block>
+  <block id="fae210aa9f9d8906ee39264d97001f11" category="sidebar">NetApp Console ローカル展開</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">All</block>
+  <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
+  <block id="000fa64b9d4129e5c8d4065ad88f7816" category="sidebar">コンソールローカル展開</block>
+  <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">保護</block>
+  <block id="d4235acc6cfb5ad04f208b8c67cc4f11" category="sidebar">NetApp Console のローカル展開により、チームは1つの安全なコントロールプレーンからオンプレミス環境でインテリジェントなフリート管理を実現できます。</block>
+  <block id="cc6088539286339733631d73fb51774b" category="sidebar">NetApp Backup and Recovery</block>
+  <block id="231d0185318cf25dc336c3835730b9dc" category="sidebar">ONTAPリソースを保護および回復します。</block>
+  <block id="2552252bf4a8c9e15e4b1a3811386d74" category="sidebar">NetApp Console ローカルデプロイメント API ドキュメント</block>
+  <block id="c8a24b7035b964928d14fa8f2946396a" category="sidebar">NetApp Console ローカルデプロイメント API を使用して、NetApp Console のローカルデプロイメントとストレージリソースをプログラムで管理・運用します。</block>
+  <block id="c8687cc8b0048d02ed49a88bc671ffa6" category="sidebar">NetApp Console ローカル展開リリースノート</block>
+  <block id="986fa776fdb2bf5c17fa6df68739dcd7" category="sidebar">NetApp Console のローカル展開リリースノートには、最新リリースにおける新機能、機能強化、および解決済みの問題に関する情報が記載されています。</block>
+</blocks>

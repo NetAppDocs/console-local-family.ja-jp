@@ -1,0 +1,32 @@
+---
+product-family:
+  title: NetApp Console ローカル展開
+  lead: NetApp Console のローカル展開により、チームは単一の安全なコントロールプレーンからオンプレミス環境でインテリジェントなフリート管理を行うことができます。機能別にドキュメントを閲覧するか、検索機能を使用してコンテンツを探してください。
+  summary: NetApp Console のローカル展開により、チームは1つの安全なコントロールプレーンからオンプレミス環境でインテリジェントなフリート管理を行うことができます。
+  sidebarlinks:
+  - title: All
+    tags: all
+    class: active
+  - title: API
+    tags: api
+  - title: コンソールローカル展開
+    tags: console-local
+  - title: 保護
+    tags: data services
+  tiles:
+  - title: NetApp Console ローカル展開
+    url: "../console-local/index.html"
+    summary: NetApp Console のローカル展開により、チームは1つの安全なコントロールプレーンからオンプレミス環境でインテリジェントなフリート管理を実現できます。
+    tags: all, console-local
+  - title: NetApp Backup and Recovery
+    url: "../data-services-backup-recovery/index.html"
+    summary: ONTAPリソースを保護および回復します。
+    tags: all, data services
+  - title: NetApp Console ローカルデプロイメント API ドキュメント
+    url: "../console-local-automation/index.html"
+    summary: NetApp Console ローカルデプロイメント API を使用して、NetApp Console のローカルデプロイメントとストレージリソースをプログラムで管理・運用します。
+    tags: all, api
+  - title: NetApp Console ローカル展開リリースノート
+    url: "../console-local-relnotes/index.html"
+    summary: NetApp Console のローカル展開リリースノートには、最新リリースにおける新機能、機能強化、および解決済みの問題に関する情報が記載されています。
+    tags: all
